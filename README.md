@@ -75,7 +75,7 @@ java -cp out app.Main
 
 > **Nota (Windows):** si en la consola las tildes se ven raras (por ejemplo en `VINCULACIÓN`), ejecuta primero `chcp 65001` o usa `java -Dfile.encoding=UTF-8 -cp out app.Main`.
 
-También se puede abrir la carpeta en Visual Studio Code con el *Extension Pack for Java* y ejecutar `Main.java` con el botón **Run**.
+También se puede abrir la carpeta en Visual Studio Code con el *Extension Pack for Java* y ejecutar `Main.java` con el botón **Run Java**, NO **Run Code**.
 
 ## 5. Uso del menú
 
